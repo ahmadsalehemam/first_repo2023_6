@@ -4,5 +4,6 @@ int main(void)
 	x=10;
 	
 	d=77;
+hh=p;
 	
 }
