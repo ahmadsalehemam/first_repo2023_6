@@ -6,4 +6,5 @@ int main(void)
 	d=77;
 hh=p;
 add saleh	
+add saleh1
 }
