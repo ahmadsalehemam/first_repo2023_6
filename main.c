@@ -7,5 +7,6 @@ int main(void)
 hh=p;
 add =ahmad saleh new app;
 data 2023-6-4
-	
+add =2ahmad saleh new app;
+data 2023-6-4
 }
